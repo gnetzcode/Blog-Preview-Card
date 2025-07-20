@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Repository URL: ()
-- Live Site URL: ()
+- Repository URL: (https://github.com/gnetzcode/Blog-Preview-Card)
+- Live Site URL: (https://gnetzcode.github.io/Blog-Preview-Card/)
 
 ## My process
 
